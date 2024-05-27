@@ -23,7 +23,7 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 
 _Great job adding the templated workflow! :tada:_
 
-Adding that file to this branch is enough for GitHub Actions to begin running CI on your repository.
+Adding that file to this branch is enough for GitHub Actions to begin running CI on your repository. 
 
 When a GitHub Actions workflow is running, you should see some checks in progress, like the screenshot below.
 
